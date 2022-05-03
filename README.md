@@ -20,15 +20,15 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 ***Complete the tasks below***
 
-- [ ] You should create a database named universe
+- [x] You should create a database named universe
 
-- [ ] Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon
+- [x] Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon
 
-- [ ] Each table should have a primary key
+- [x] Each table should have a primary key
 
-- [ ] Each primary key should automatically increment
+- [x] Each primary key should automatically increment
 
-- [ ] Each table should have a name column
+- [x] Each table should have a name column
 
 - [ ] You should use the INT data type for at least two columns that are not a primary or foreign key
 
