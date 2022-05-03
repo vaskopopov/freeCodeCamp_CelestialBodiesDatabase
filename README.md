@@ -2,8 +2,11 @@
 
 
 This is one of the required projects to earn your certification.
+
 For this project, you will build a database of celestial bodies using PostgreSQL.
+
 ---
+
 #Instructions
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering `psql --username=freecodecamp --dbname=postgres` in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
 
@@ -19,6 +22,8 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 ---
 
 ***Complete the tasks below***
+
+![](https://progress-bar.dev/5?title=progress&scale=24&suffix=/24)
 
 - [x] You should create a database named universe
 
