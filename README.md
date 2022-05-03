@@ -23,7 +23,7 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 ***Complete the tasks below***
 
-![](https://progress-bar.dev/5?title=progress&scale=24&suffix=/24)
+![](https://progress-bar.dev/9?title=progress&scale=24&suffix=/24)
 
 - [x] You should create a database named universe
 
@@ -59,7 +59,7 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 - [ ] The moon table should have at least 20 rows
 
-- [ ] Each table should have at least three columns
+- [x] Each table should have at least three columns
 
 - [ ] The galaxy, star, planet, and moon tables should each have at least five columns
 
@@ -67,8 +67,8 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 - [ ] At least one column from each table should be required to be UNIQUE
 
-- [ ] All columns named name should be of type VARCHAR
+- [x] All columns named name should be of type VARCHAR
 
-- [ ] Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
+- [x] Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
 
-- [ ] Each foreign key column should have the same name as the column it is referencing
+- [x] Each foreign key column should have the same name as the column it is referencing
